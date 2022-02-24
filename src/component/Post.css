@@ -1,0 +1,8 @@
+.post {
+  box-shadow: 0 7px 9px -7px rgba(0, 0, 0, 0.4);
+  margin-top: 10px;
+  font-size: 40px;
+}
+span {
+  margin-right: 20px;
+}
